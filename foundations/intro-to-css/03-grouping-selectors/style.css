@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.clik_me, .noclik_me {
+    font-size: 28px;
+    font-family: Times new, Helvetica, sans-serif;
+}
+
+.clik_me {
+    color: white;
+    background-color: black;
+}
+
+.noclik_me {
+    background-color: yellow;
+}
